@@ -1,5 +1,5 @@
 
-# Student_Performance_Prediction_Using_ML
+# Student_Performance_Using_ML
 
 Student performance analysis and prediction using datasets has become an
 essential component of modern education systems. With the increasing
